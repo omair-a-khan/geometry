@@ -6,3 +6,5 @@ def test_calculate_area():
 
 def test_calculate_area_zero():    
     assert calculate_area(0) == 0, "Calculation did not work"
+
+# test
